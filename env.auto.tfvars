@@ -1,7 +1,7 @@
 # VM instance
 jenkins-servers = [
   {
-    machine_name            = "hdfc-jenkins-test-vm"
+    machine_name            = "jenkins-test-vm"
     machine_zone            = "asia-south1-b"
 instance_labels = {
       
