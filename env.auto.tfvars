@@ -8,7 +8,7 @@ instance_labels = {
     }
     network_tags = []
     
-    vm_deletion_protect = false
+    vm_deletion_protect = true
     internal_ip         = ""
     enable_external_ip  = false
     boot_disk0_info = {
